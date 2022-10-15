@@ -1,0 +1,8 @@
+C:\Users\Hafiz\source\vs2022\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+C:\Users\Hafiz\source\vs2022\CommandPattern\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Users\Hafiz\source\vs2022\CommandPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Users\Hafiz\source\vs2022\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csproj.AssemblyReference.cache
+C:\Users\Hafiz\source\vs2022\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hafiz\source\vs2022\CommandPattern\CommandPattern\obj\Debug\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\source\vs2022\CommandPattern\CommandPattern\obj\Debug\CommandPattern.exe
+C:\Users\Hafiz\source\vs2022\CommandPattern\CommandPattern\obj\Debug\CommandPattern.pdb
